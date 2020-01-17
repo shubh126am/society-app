@@ -26,7 +26,7 @@ const App: React.FC = () => {
         <RestrictedRoute
           path="/home"
           component={HomePage}
-          onlyAllow={RestrictedRoute.LOGGED_OUT_USERS}
+          onlyAllow={RestrictedRoute.LOGGED_IN_USERS}
         />
       </Switch>
     </Router>

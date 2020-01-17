@@ -1,0 +1,76 @@
+{
+  "name": "society",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@types/react-infinite-scroll-component": "^4.2.5",
+    "@types/react-infinite-scroller": "^1.2.1",
+    "antd": "^3.26.0",
+    "axios": "^0.19.0",
+    "enzyme": "^3.11.0",
+    "enzyme-adapter-react-16": "^1.15.2",
+    "immutable": "^4.0.12",
+    "jest": "^24.9.0",
+    "jest-enzyme": "^7.1.2",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "react-infinite-scroll-component": "^5.0.4",
+    "react-infinite-scroller": "^1.2.4",
+    "react-redux": "^7.1.3",
+    "react-router": "^5.1.2",
+    "react-router-dom": "^5.1.2",
+    "react-scripts": "3.3.0",
+    "redux": "^4.0.4",
+    "redux-immutable": "^4.0.0",
+    "redux-saga": "^1.1.3",
+    "styled-components": "^4.4.1",
+    "ts-jest": "^24.3.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.22",
+    "@fortawesome/free-regular-svg-icons": "^5.10.2",
+    "@fortawesome/free-solid-svg-icons": "^5.10.2",
+    "@fortawesome/react-fontawesome": "^0.1.4",
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.3.2",
+    "@testing-library/user-event": "^7.1.2",
+    "@types/antd": "^1.0.0",
+    "@types/axios": "^0.14.0",
+    "@types/enzyme": "^3.10.4",
+    "@types/enzyme-adapter-react-16": "^1.0.5",
+    "@types/immutable": "^3.8.7",
+    "@types/jest": "^24.9.0",
+    "@types/node": "^12.0.0",
+    "@types/react": "^16.9.0",
+    "@types/react-dom": "^16.9.0",
+    "@types/react-redux": "^7.1.5",
+    "@types/react-router": "^5.1.3",
+    "@types/react-router-dom": "^5.1.3",
+    "@types/redux": "^3.6.0",
+    "@types/redux-immutable": "^4.0.1",
+    "@types/redux-saga": "^0.10.5",
+    "@types/styled-components": "^4.4.0",
+    "typescript": "~3.7.2"
+  }
+}

@@ -1,4 +1,4 @@
-## Steps to run the project
+## Steps to run the project ( copy command on cmd in project folder)
 ### 1. npm install
 ### 2. cd src
 ### 3. json-server --watch --port 8080 server.json

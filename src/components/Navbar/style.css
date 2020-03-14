@@ -1,0 +1,6 @@
+.nav-bar {
+  display: flex;
+  flex-flow: row nowrap;
+  box-shadow: rgba(0, 0, 0, 0.2) 0px 1px 2px;
+  padding: 0px;
+}
